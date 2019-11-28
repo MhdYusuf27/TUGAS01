@@ -44,6 +44,6 @@ public class Messages extends Activity {
         TabOutbox.setTabListener(new TabListener(fragmentTabOutbox));
         
 		actionBar.addTab(TabInbox);
-		actionBar.addTab(TabOutbox);
+		//actionBar.addTab(TabOutbox);
     }
 }
